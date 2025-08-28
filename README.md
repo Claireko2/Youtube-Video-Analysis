@@ -11,5 +11,5 @@ Analyzed international YouTube trending video statistics to uncover insights on 
 - Provided actionable recommendations for digital content strategy based on viewer interaction patterns.
 
 ## Tools & Technologies
-Python, R, MS Excel, Pandas, NumPy, Tableau, Power BI
+Python, MS Excel, Pandas, NumPy
 
